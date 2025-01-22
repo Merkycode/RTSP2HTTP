@@ -23,7 +23,7 @@ An interactive bash script that helps you set up an RTSP camera stream and conve
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rtsp-to-http-stream.git
+   git clone https://github.com/Merkycode/rtsp-to-http-stream.git
    cd rtsp-to-http-stream
    ```
 
